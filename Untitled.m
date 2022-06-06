@@ -1,1 +1,1 @@
-disp("tmd，怎么一会儿可以一会儿不可以")
+disp("so sad")
